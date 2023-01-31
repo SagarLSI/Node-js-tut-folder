@@ -1,0 +1,28 @@
+{
+  "name": "node-js-tut-folder",
+  "version": "1.0.0",
+  "description": "node js tutorial project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SagarLSI/node_js_tutorial_project.git"
+  },
+  "keywords": [
+    "code",
+    "step",
+    "by",
+    "step"
+  ],
+  "author": "Sagar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SagarLSI/node_js_tutorial_project/issues"
+  },
+  "homepage": "https://github.com/SagarLSI/node_js_tutorial_project#readme",
+  "dependencies": {
+    "simple-node-logger": "^21.8.12"
+  }
+}

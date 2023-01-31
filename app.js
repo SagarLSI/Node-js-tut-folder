@@ -1,0 +1,11 @@
+module.export={
+
+x:20,
+y:30,
+
+z:function(){
+
+    return 10;
+}
+
+}
